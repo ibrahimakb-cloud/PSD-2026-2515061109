@@ -108,5 +108,5 @@ main() # panggil fungsi main() untuk menjalankan program
 # Output Code
 
 <img width="1392" height="728" alt="Screenshot 2026-04-28 140101" src="https://github.com/user-attachments/assets/a858b021-4946-47e3-83b6-3c42b5800682" />
-
 link video : 
+https://youtu.be/3OuKqqBhtac
