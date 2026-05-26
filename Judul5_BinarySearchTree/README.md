@@ -290,4 +290,4 @@ Pilihan 7:
 <img width="617" height="221" alt="Screenshot 2026-05-26 193510" src="https://github.com/user-attachments/assets/1c562c73-c11c-438c-afcd-2226d9de88e3" />
 
 
-link youtube : 
+link youtube : https://youtu.be/FnyqdZjDnHc 
